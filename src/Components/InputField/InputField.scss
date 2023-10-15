@@ -1,0 +1,16 @@
+.form-section {
+  input {
+    border: 2px solid #3e3e3e;
+    background: #fff;
+    color: #3e3e3e;
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    padding: 13px 16px;
+    ::placeholder {
+      color: #3e3e3e;
+      font-size: 16px;
+      font-weight: 600;
+    }
+  }
+}
